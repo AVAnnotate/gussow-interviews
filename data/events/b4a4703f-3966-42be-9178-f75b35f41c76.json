@@ -1,9 +1,9 @@
 {
   "audiovisual_files": {
     "87a8c72a-ba02-41b2-a417-c7dd97c00ad0": {
-      "label": "AV File 1",
+      "label": "Tape 1",
       "file_url": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll83/1051.mp3",
-      "duration": 0
+      "duration": 2857
     }
   },
   "auto_generate_web_page": true,
@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Tape 2"
+          "text": "Interview with Alice Walker, USC, 10/12/2000. Tape 1 of 2. Gussow discusses the Greenwich Village townhouse explosion that destroyed his home in 1970. They discuss themes of opposition to violence in Walker's work. Walker discusses themes of love in her work amidst evil. Walker talks about her family and her writing. Walker talks about her recent book,\"The Way Forward Is with a Broken Heart,\" with stories that deal with care and intimacy in relationships. Walker discusses other work including \"The Color Purple\" and \"Meridian.\" She talks about her time living in Mississippi, the suffering faced by black and non-white communities, and reading and works that influenced her, including Zora Neale Hurston and Leo Tolstoy. She talks about her childhood, meditation, hate, and spiritual beliefs. High Background Noise on Tape; Program Distorted at Times."
         }
       ]
     }
@@ -20,7 +20,8 @@
   "created_at": "2024-12-30T18:45:22.920Z",
   "created_by": "tanyaclement",
   "item_type": "Audio",
-  "label": "Imported Event 1",
-  "updated_at": "2024-12-30T18:45:22.920Z",
-  "updated_by": "tanyaclement"
+  "label": "Alice Walker Interview, 12 October 2000",
+  "updated_at": "2024-12-30T18:49:49.023Z",
+  "updated_by": "tanyaclement",
+  "citation": "C_4001_01_01_acc_20191119"
 }
