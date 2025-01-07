@@ -1,0 +1,52 @@
+{
+  "audiovisual_files": {
+    "6f1a6103-2fa1-45d4-b094-cdf25575260b": {
+      "label": "C_4001_01_01_acc_20191119",
+      "is_offline": false,
+      "file_url": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll83/1051.mp3",
+      "duration": 2857,
+      "caption_set": []
+    },
+    "d866ab1c-44e2-49f6-86f4-b0c83a48f189": {
+      "label": "C_4002_01_01_acc_20191119",
+      "is_offline": false,
+      "file_url": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll83/1058.mp3",
+      "duration": 2473,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Interview with Alice Walker, USC, 10/12/2000. Tape 1 of 2. Gussow discusses the Greenwich Village townhouse explosion that destroyed his home in 1970. They discuss themes of opposition to violence in Walker's work. Walker discusses themes of love in her work amidst evil. Walker talks about her family and her writing. Walker talks about her recent book,\"The Way Forward Is with a Broken Heart,\" with stories that deal with care and intimacy in relationships. Walker discusses other work including \"The Color Purple\" and \"Meridian.\" She talks about her time living in Mississippi, the suffering faced by black and non-white communities, and reading and works that influenced her, including Zora Neale Hurston and Leo Tolstoy. She talks about her childhood, meditation, hate, and spiritual beliefs. High Background Noise on Tape; Program Distorted at Times."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Interview with Alice Walker, USC, 10/12/2000. Tape 2 of 2. Walker and Gussow continue their discussion. Walker discusses how she decides what to write about, she talks about criticism, she talks about \"The Color Purple,\" current politics, her time at Sarah Lawrence College, interviewing Coretta Scott King, and other topics related to her life and work. Side B is Blank; High Background Noise on Tape."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gussow, Mel and Alice Walker. Interview with Alice Walker. [Audio recording], 12 October 2000, Mel Gussow Interview Recordings, Harry Ransom Center, University of Texas at Austin, Austin, TX."
+        }
+      ]
+    }
+  ],
+  "citation": "Gussow, Mel and Alice Walker. Interview with Alice Walker. [Audio recording], 12 October 2000, Mel Gussow Interview Recordings, Harry Ransom Center, University of Texas at Austin, Austin, TX.",
+  "item_type": "Audio",
+  "label": "Alice Walker Interview, 12 October 2000",
+  "created_at": "2025-01-07T20:48:59.672Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-01-07T20:48:59.672Z",
+  "updated_by": "tanyaclement"
+}
