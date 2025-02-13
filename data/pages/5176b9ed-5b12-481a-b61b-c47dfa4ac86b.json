@@ -1,0 +1,56 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I am adding a clip "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "b052b1f5-5aab-41ae-9b3a-db2104cbc996",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 250,
+      "end": 257,
+      "file": "6f1a6103-2fa1-45d4-b094-cdf25575260b",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Clip examples",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "clip-examples",
+  "created_at": "2025-02-13T21:38:11.285Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-02-13T21:38:11.285Z",
+  "updated_by": "tanyaclement"
+}
