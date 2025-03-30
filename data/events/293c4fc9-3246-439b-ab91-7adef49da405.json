@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "1e2167d0-2fac-4c5f-98cc-03d101603c1f": {
+      "label": "Interview with Mario Vargas Llosa, February 25, 2002",
+      "is_offline": false,
+      "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll83/1749.mp3/byte/json",
+      "duration": 3750
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Gussow, Mel. “Interview with Mario Vargas Llosa.” Harry Ransom Center, The University of Texas at Austin, 25 Feb. 2002.",
+  "item_type": "Audio",
+  "label": "Interview with Mario Vargas Llosa, February 25, 2002",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This interview between New York Times critic, Mel Gussow, and writer and politician, Mario Vargas Llosa, was recorded on February 25, 2002, at the American Society. This is the first side of the recording, in which Gussow and Vargas Llosa discuss his novel, La Fiesta del Chivo (2000) or The Feast of the Goat. The pair discuss Gen. Rafael Trujillo (El Jefe), who ruled the Dominican Republic from August 1930 until he died in 1961. Trujillo’s reign serves as inspiration for the novel. They also discuss dictatorships more broadly and the impact of literature on society. Towards the end of the recording, Vargas Llosa describes his inspiration for his 2003 novel, The Way to Paradise."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-30T00:21:32.256Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-03-30T00:21:32.256Z",
+  "updated_by": "tanyaclement"
+}

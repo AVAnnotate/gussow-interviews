@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "2e0bb9d9-214f-4b7b-8e52-92a7ee73b815": {
+      "label": "Interview with Stanley Kunitz, April 24, 2002",
+      "is_offline": false,
+      "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll83/443.mp3/byte/json",
+      "duration": 2986
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Mel Gussow, Interview with Stanley Kunitz, 37 West 12th, 4/24/02, Mel Gussow, interviewer, Stanley Kunitz, interviewee, April, 24th, 2002, Mel Gussow Interview Recordings, Harry Ransom Center, The University of Texas at Austin, 2002, audiocassettes.",
+  "item_type": "Audio",
+  "label": "Interview with Stanley Kunitz, April 24, 2002",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "On April 24th, 2002, Mel Gussow sat down with Stanley Kunitz to conduct an interview on the inception of Poets House, a public poetry library and literary center in Manhattan, and what Kunitz calls “a communication center as well as a house of hospitality” for poets and the poetry community in New York City. The two discuss a wide range of topics, veering into the relationship between Poets and The State, the state of Poetry in American culture in the early 2000s (as Kunitz conceived of it), Kunitz’s own life and creative practice, and his beliefs regarding interconnectedness and spirituality, what he called “the web of creation.”"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-30T00:21:32.256Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-03-30T00:21:32.256Z",
+  "updated_by": "tanyaclement"
+}
