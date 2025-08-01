@@ -1,21 +1,21 @@
 {
   "audiovisual_files": {
     "6f1a6103-2fa1-45d4-b094-cdf25575260b": {
-      "label": "C_4001_01_01_acc_20191119",
+      "label": "Tape 4001_01_01",
       "is_offline": false,
       "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll83/1051.mp3/byte/json",
       "duration": 2857,
       "caption_set": []
     },
     "d866ab1c-44e2-49f6-86f4-b0c83a48f189": {
-      "label": "C_4002_01_01_acc_20191119",
+      "label": "Tape 4002_01_01",
       "is_offline": false,
       "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll83/1058.mp3/byte/json",
       "duration": 2473,
       "caption_set": []
     },
     "34d6d5c6-5c6d-4070-b848-726339e9a937": {
-      "label": "C_4001_02_01_acc_20191119",
+      "label": "Tape 4001_02_01",
       "is_offline": false,
       "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll83/1052.mp3/byte/json",
       "duration": 2873,
@@ -49,6 +49,11 @@
   "label": "Alice Walker Interview, 12 October 2000",
   "created_at": "2025-01-07T20:48:59.672Z",
   "created_by": "tanyaclement",
-  "updated_at": "2025-02-03T22:00:03.728Z",
-  "updated_by": "tanyaclement"
+  "updated_at": "2025-08-01T15:23:45.861Z",
+  "updated_by": "tanyaclement",
+  "av_file_order": [
+    "6f1a6103-2fa1-45d4-b094-cdf25575260b",
+    "d866ab1c-44e2-49f6-86f4-b0c83a48f189",
+    "34d6d5c6-5c6d-4070-b848-726339e9a937"
+  ]
 }
